@@ -1,4 +1,4 @@
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />, I'm Kaique Roque!</h1>
+<h1 align="left">Hi dear👋, I'm Kaique Roque!</h1>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kaiqueroque&color=blue" alt "Profile Vies" /></p>
 
