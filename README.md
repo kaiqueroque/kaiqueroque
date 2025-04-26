@@ -4,8 +4,7 @@
 
 - 🔥 Graphic Designer and Web Develop
 - 🔭 I'm currently working on [Movimento Mais Brasil](https://movimentomaisbrasil.org.br)
-- 🌱 I’m currently studying Analysis and Systems Development on [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
-- 🌱 I’m currently learning JAVA and ReactJS
+- 🌱 Graduated in Analysis and Systems Development on [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
 
 ## 🛠 Tech Stack
 
